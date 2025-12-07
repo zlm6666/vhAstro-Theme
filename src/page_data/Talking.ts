@@ -3,7 +3,8 @@ export default {
   api: '',
   // api 为空则使用 data 静态数据 
   // 注意：图片请用 vh-img-flex 类包裹
-    {
+   data: [
+   {
       "date": "2025-12-07 15:08:28",
       "tags": [
         "日常"

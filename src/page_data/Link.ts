@@ -4,7 +4,7 @@ export default {
   // api 为空则使用 data 静态数据
   data: [
     {
-      "name": "韩小韩博客",
+      "name": "笑的主页",
       "link": "https://xiaow.qzz.io",
       "avatar": "https://img20.360buyimg.com/openfeedback/jfs/t1/308759/22/5559/54956/6839e638Fa1571f19/172f4b7727074acf.jpg",
       "descr": "看看我都干了些啥？"

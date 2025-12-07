@@ -5,9 +5,9 @@ export default {
   data: [
     {
       "name": "韩小韩博客",
-      "link": "https://www.vvhan.com",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640",
-      "descr": "运气是计划之外的东西."
+      "link": "https://xiaow.qzz.io",
+      "avatar": "https://img20.360buyimg.com/openfeedback/jfs/t1/308759/22/5559/54956/6839e638Fa1571f19/172f4b7727074acf.jpg",
+      "descr": "看看我都干了些啥？"
     },
     {
       "name": "韩小韩API",

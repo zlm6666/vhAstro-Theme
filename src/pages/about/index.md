@@ -10,4 +10,4 @@ type: "about"
 我是笑，欢迎来到我的博客
 和我一起探索网络世界吧~
 :::
-主站：https://xiaow.qzz.i
+主站：https://xiaow.qzz.io

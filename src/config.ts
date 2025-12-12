@@ -84,7 +84,6 @@ export default {
   DNSOptimization: [
     'https://i0.wp.com',
     'https://cn.cravatar.com',
-    'https://analytics.vvhan.com',
     'https://vh-api.4ce.cn',
     'https://registry.npmmirror.com',
     'https://pagead2.googlesyndication.com'

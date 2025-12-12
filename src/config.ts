@@ -66,7 +66,7 @@ export default {
     // 建议使用 https://tabler.io/icons 直接下载 SVG
     { text: 'Github', link: 'https://github.com/zlm6666', icon: 'WebSite_github' },
     { text: '哔哩哔哩', link: 'https://m.bilibili.com/space/1309873575', icon: 'WebSite_bili' },
-    { text: '骤雨重山图床', link: 'https://wp-cdn.4ce.cn', icon: 'WebSite_img' },
+    { text: 'MT论坛', link: 'https://bbs.binmt.cc/home.php?mod=space&uid=139510&do=profile', icon: 'WebSite_mt' },
     { text: 'HanAnalytics', link: 'https://analytics.vvhan.com', icon: 'WebSite_analytics' },
   ],
   // 侧边栏展示

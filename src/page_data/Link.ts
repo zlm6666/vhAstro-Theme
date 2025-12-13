@@ -15,5 +15,9 @@ export default {
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1498934815&s=640"
       "desc": "除了死亡，一切失败都只存在于心理层面."
     }
+    name: 易搜特收录网
+link: https://www.esoot.com
+avatar: 
+desc: 收录各种网站
   ]
 }

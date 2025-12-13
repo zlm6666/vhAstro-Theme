@@ -17,7 +17,7 @@ export default {
     },
     {
     "name": "易搜特收录网",
-    "link": "https://www.esoot.com",
+    "link": "http://www.esoot.com",
     "avatar": "http://img.magicalapp.cn/api/image/show/3558007d7123d61b9b2976887cc1bc35",
     "descr": "收录各种网站"
     },

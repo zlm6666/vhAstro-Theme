@@ -33,5 +33,11 @@ export default {
     "avatar": "https://q1.qlogo.cn/g?b=qq&nk=924592920&s=640",
     "descr": "天上的星光漫漫，那是被夸父打碎的太阳."
     },
+    {
+    "name": "無名小栈",
+    "link": "https://blog.imsyy.top",
+    "avatar": "https://pic.imgdb.cn/item/65bc52b0871b83018a06699d.png",
+    "descr": "分享技术与科技生活"
+    },
   ]
 }

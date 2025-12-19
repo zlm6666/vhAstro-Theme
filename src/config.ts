@@ -120,7 +120,7 @@ export default {
   },
   // 访问网页 自动推送到搜索引擎
   SeoPush: {
-    enable: false,
+    enable: true,
     serverApi: '',
     paramsName: 'url'
   },

@@ -121,7 +121,7 @@ export default {
   // 访问网页 自动推送到搜索引擎
   SeoPush: {
     enable: true,
-    serverApi: '',
+    serverApi: 'https://ssl.bing.com/webmaster/api.svc/json/SubmitUrlbatch?apikey=3f6cff246c35483a8d15803c5dae1151',
     paramsName: 'url'
   },
   // 页面阻尼滚动速度

@@ -50,6 +50,6 @@ export default {
     "link": "https://www.biibii.cn",
     "avatar": "https://www.biibii.cn/usr/uploads/2025/07/3155658037.webp",
     "descr": "记录生活中的技术脉搏。"
-    }
+    },
   ]
 }

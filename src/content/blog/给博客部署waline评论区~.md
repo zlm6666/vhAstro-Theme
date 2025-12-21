@@ -63,7 +63,7 @@ recommend: true
 ![创建应用](http://img.magicalapp.cn/api/image/show/b07570145c351554e6d5b69f4cc32f1d)
 3. 进入应用，选择左下角的 `设置` > `应用 Key`。你可以看到你的 `APP ID`,`APP Key` 和 `Master Key`。请记录它们，以便后续使用（手机桌面是右上角三条杠可以看到）
 ![key](http://img.magicalapp.cn/api/image/show/69b5f70337bf00894188062d22c77888)
-
+接下来我们先把它晾着，看后面的
 :::note{type="warning"}
 **国内版需要备案**
 

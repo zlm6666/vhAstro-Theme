@@ -10,7 +10,7 @@ export default {
   // 网站作者
   Author: 'xiao',
   // 作者头像
-  Avatar: 'http://img.magicalapp.cn/api/image/show/21dc2a2308c039d958fabf4815594f42',
+  Avatar: 'https://wp-cdn.4ce.cn/v2/TVFIv5x.jpeg',
   // 网站座右铭
   Motto: '我懒，所以不想写',
   // Cover 网站缩略图

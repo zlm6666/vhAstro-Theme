@@ -57,5 +57,11 @@ export default {
     "avatar": "https://p.weizwz.com/logo_a4353391cbf0889b.webp",
     "descr": "探索知识的无限可能"
     },
+    {
+    "name": "博友圈",
+    "link": "https://www.boyouquan.com/home",
+    "avatar": "https://www.boyouquan.com/assets/images/sites/logo/logo-small.png",
+    "descr": "博客人的朋友圈，将一个个散落在各处的孤岛连接成一片广袤无垠的新大陆！"
+    },
   ]
 }

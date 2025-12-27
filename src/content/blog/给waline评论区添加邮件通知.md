@@ -30,8 +30,9 @@ recommend: true
 - 谷歌邮箱
 - 126邮箱
 
-至于resend，好用是挺好用，但是也有几大痛点：无法发送到outlook邮箱（不被信任），waline自带的配置有点问题，需要自己添加smtp服务器。。。
----
+:::note
+至于resend，好用是挺好用，但是也有几大痛点：无法发送到outlook邮箱（不被信任），waline自带的配置有点问题，需要自己添加smtp服务器
+:::
 **以QQ邮箱为例**
 登录[QQ邮箱网页版](https://mail.qq.com)，右上角呼出侧边栏，然后点左下角设置，切换到标准版
 ![切换到标准版](http://img.magicalapp.cn/api/image/show/d68728ff7a04f968fec1b068b0348171)

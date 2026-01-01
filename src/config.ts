@@ -8,7 +8,7 @@ export default {
   // 网站描述
   Description: '心血来潮，互相学习，相互进步',
   // 网站作者
-  Author: '𝑿𝑰𝑨𝑶',
+  Author: '𝒙𝒊𝒂𝒐',
   // 作者头像
   Avatar: 'https://wp-cdn.4ce.cn/v2/TVFIv5x.jpeg',
   // 网站座右铭

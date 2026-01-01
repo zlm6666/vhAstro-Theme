@@ -19,6 +19,7 @@ import swup from '@swup/astro';
 export default defineConfig({
 	site: SITE_INFO.Site,
 	build: { assets: 'vh_static' },
+	trailingSlash: 'ignore',
 	integrations: [swup({
 		theme: false,
 		animationClass: "vh-animation-",

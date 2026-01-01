@@ -72,7 +72,7 @@ export default {
     {
     "name": "速溶理查的博客",
     "link": "https://gateway.xn--sjq13yo4by51ezbkoum.dpdns.org",
-    "avatar": "https://wp-cdn.4ce.cn/v2/pG7yHIn.png",
+    "avatar": "http://img.magicalapp.cn/api/image/show/c2c18172e1be4662956ba0b47337bbe6",
     "descr": "人与人之间的社交无过于对彼此世界的入侵"
     },
     {

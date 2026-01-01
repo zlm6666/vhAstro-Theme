@@ -72,7 +72,7 @@ export default {
     {
     "name": "速溶理查",
     "link": "https://gateway.xn--sjq13yo4by51ezbkoum.dpdns.org",
-    "avatar": "https://img.moonisland.dpdns.org/Astro/avatarImg.webp",
+    "avatar": "https://wp-cdn.4ce.cn/v2/pG7yHIn.png",
     "descr": "人与人之间的社交无过于对彼此世界的入侵"
     },
   ]

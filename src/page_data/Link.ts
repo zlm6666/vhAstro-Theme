@@ -28,10 +28,10 @@ export default {
     "descr": "运气是计划之外的东西."
     },
     {
-    "name": "末雨乘风博客",
-    "link": "https://blog.blowswind.cn",
-    "avatar": "https://q1.qlogo.cn/g?b=qq&nk=924592920&s=640",
-    "descr": "天上的星光漫漫，那是被夸父打碎的太阳."
+    "name": "Web Teleporter",
+    "link": "https://webteleporter.top/",
+    "avatar": "https://webteleporter.top/img/logo.png",
+    "descr": "独立博客传送门"
     },
     {
     "name": "無名小栈",

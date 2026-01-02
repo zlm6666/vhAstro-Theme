@@ -87,5 +87,11 @@ export default {
     "avata": "https://imgs.977958.xyz/uploads//684dac2732bba_.jpg",
     "descr": "芹香のblog，一个游戏站点兼信息技术交流小站，欢迎来玩♡"
     },
+    {
+    "name": "启动台の小窝",
+    "link": "https://launchpadx.top",
+    "avatar": "https://launchpadx.top/avatar",
+    "descr": "用代码改变世界"
+    },
   ]
 }

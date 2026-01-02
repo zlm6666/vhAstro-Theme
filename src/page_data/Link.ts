@@ -90,7 +90,7 @@ export default {
     {
     "name": "启动台の小窝",
     "link": "https://launchpadx.top",
-    "avatar": "https://launchpadx.top/avatar",
+    "avatar": "http://img.magicalapp.cn/api/image/show/91959218fe30b4013543a9b5e7d65abf",
     "descr": "用代码改变世界"
     },
     {

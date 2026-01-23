@@ -69,6 +69,7 @@ export default {
     { text: '哔哩哔哩', link: 'https://m.bilibili.com/space/1309873575', icon: 'WebSite_bili' },
     { text: 'MT论坛', link: 'https://bbs.binmt.cc/home.php?mod=space&uid=139510&do=profile', icon: 'WebSite_mt' },
     { text: 'QQ群组', link: 'https://qm.qq.com/q/i844droz8k?from=tim', icon: 'website_qq' },
+    { text: '图床', link: 'https://www.xiaow.qzz.io/image', icon: 'WebSite_img' },
   ],
   // 侧边栏展示
   AsideShow: {
